@@ -1,6 +1,4 @@
-
-
-# Default is "World"
+# This is an unwanted but committed comment
 
 name = ARGV.first || "World"
 
